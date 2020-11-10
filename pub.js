@@ -1,6 +1,6 @@
 // MQTT publisher
 var mqtt = require('mqtt')
-var client = mqtt.connect('mqtt://localhost:3838')
+var client = mqtt.connect('mqtt://148.70.212.82:3838')
 var topic = '/testmsg'
 var message = 'my name is mqtt sub.js send'
 

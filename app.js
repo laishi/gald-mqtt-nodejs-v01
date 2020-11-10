@@ -11,4 +11,4 @@ app.get('/', function(req, res) {
 
 app.listen(3636);
 
-console.log("http://127.0.0.1:3636/");
+console.log("http://148.70.212.82:3636/");
